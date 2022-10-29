@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb","Source":"registry.terraform.io/terraform-aws-modules/alb/aws","Version":"6.10.0","Dir":".terraform/modules/alb"}]}

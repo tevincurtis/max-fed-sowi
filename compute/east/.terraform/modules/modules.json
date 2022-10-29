@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"us_east_ec2_linux","Source":"registry.terraform.io/terraform-aws-modules/ec2-instance/aws","Version":"3.6.0","Dir":".terraform/modules/us_east_ec2_linux"},{"Key":"us_east_ec2_windows","Source":"registry.terraform.io/terraform-aws-modules/ec2-instance/aws","Version":"3.6.0","Dir":".terraform/modules/us_east_ec2_windows"}]}
